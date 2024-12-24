@@ -3,13 +3,9 @@ My name is Kent William and nice to meet you! i am a **Game Developer** with a *
 
 i consider my self as a **Generalist**, capable of handling various tasks, but I’m particularly passionate about **UI System**, and creating meaningful player **feedback** which includes sound and visual.
 
-### What i'm going to Learn
+### Interest
 1. Building robust audio systems for games
 2. Exploring Unity **UIToolkit** for modern UI workflows
-
-### Free Time
-i’m continuing to work on a simulation game with a Tycoon-style genre that challenges players to thrive in a dynamic economy, trends. It’s designed to be fun and educational.<br>
-If you want to check the progress, check [here](https://github.com/kentwilliam95/ProjectTycoon).
 
 ### Contact
 Contact me if you need help or anything!<br>
