@@ -11,7 +11,7 @@ i consider my self as a **Generalist**, capable of handling various tasks, but I
 Contact me if you need help or anything!<br>
 kentwilliam95@gmail.com
 
-### Tiny Games (2021-2024)<br>
+### Quick Game Projects<br>
 #### whackmole
 A simple clicking game with Unity engine inspired by cookie clicker and Arcade whack a mole.
 ![WhackAMole](WhackMoleKids.gif)
