@@ -5,7 +5,7 @@ i consider my self as a **Generalist**, capable of handling various tasks, but I
 
 ### Interest
 1. Building robust audio systems for games
-2. Exploring Unity **UIToolkit** for modern UI workflows
+2. Exploring new Unity **UIToolkit** for modern UI workflows
 
 ### Contact
 Contact me if you need help or anything!<br>
