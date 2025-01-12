@@ -35,7 +35,7 @@ Inspired by Tasty World: Cafe diner dash
 
 #### BasicRTS
 Implementing basic RTS player actions, move player by clicking, picking up objects, and interacting with environment.
-![Basic RTS](BasicRTS)
+![Basic RTS](BasicRTS.gif)
 
 
 <!--
