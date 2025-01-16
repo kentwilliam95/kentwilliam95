@@ -30,11 +30,11 @@ Simple crane game inspired by real life arcade version of it.
 
 #### Cooking Game
 Mimicking a cooking game where you can cook and serve to customer base on their requirement.
-Inspired by Tasty World: Cafe diner dash
+Inspired by Tasty World: Cafe diner dash<br>
 ![Cooking Game](Cooking.gif)
 
 #### BasicRTS
-Implementing basic RTS player actions, move player by clicking, picking up objects, and interacting with environment.
+Implementing basic RTS player actions, move player by clicking, picking up objects, and interacting with environment.<br>
 ![Basic RTS](BasicRTS.gif)
 
 
