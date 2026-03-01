@@ -11,7 +11,7 @@ kentwilliam95@gmail.com
 #### NomNomNorth
 Quick Puzzle game with grid movement, inspired by Flow Free and others!<br>
 [Play NomNom North on itch.io](https://kwillixv.itch.io/nomnom-north)<br>
-[![Snowy Fox Puzzle Game](https://img.youtube.com/vi/vrOhVMPzONU/0.jpg)](https://www.youtube.com/watch?v=vrOhVMPzONU "Watch the video")
+![NomNom](NomNom.gif)
 
 #### whackmole
 A simple clicking game with Unity engine inspired by cookie clicker and Arcade whack a mole.
