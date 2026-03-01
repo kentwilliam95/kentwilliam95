@@ -1,7 +1,7 @@
 # Hi There! 👋
 My name is Kent William and nice to meet you! i am a **Game Developer** with a **Software Engineering** background. Previously, I worked on mobile app development using **Xamarin**, and worked with **Microsoft SQL** and **Firebase databases**. Since graduating from university in 2019, I've been focused on Game Development. I enjoy working in this field because it's challenging, complex, and fun.
 
-i consider my self as a **Generalist**, capable of handling various tasks, but I’m particularly passionate about **UI** and **Gameplay**, and creating meaningful player **feedback** which includes sound and visual.
+i consider my self as a **Generalist**, capable of handling various tasks, but I’m particularly passionate about **UI**, **Gameplay**, and creating meaningful player **feedback** which includes sound and visual.
 
 ### Interest
 1. Building robust audio systems for games
