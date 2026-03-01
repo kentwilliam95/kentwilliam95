@@ -12,6 +12,10 @@ Contact me if you need help or anything!<br>
 kentwilliam95@gmail.com
 
 ### Quick Game Projects<br>
+#### NomNomNorth
+Quick Puzzle game with grid movement, inspired by Flow Free and others!
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtube.com/shorts/vrOhVMPzONU))]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/vrOhVMPzONU)) 
+
 #### whackmole
 A simple clicking game with Unity engine inspired by cookie clicker and Arcade whack a mole.
 ![WhackAMole](WhackMoleKids.gif)
