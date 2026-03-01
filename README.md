@@ -3,10 +3,6 @@ My name is Kent William and nice to meet you! i am a **Game Developer** with a *
 
 i consider my self as a **Generalist**, capable of handling various tasks, but I’m particularly passionate about **UI**, **Gameplay**, and creating meaningful player **feedback** which includes sound and visual.
 
-### Interest
-1. Building robust audio systems for games
-2. Exploring new Unity **UIToolkit** for modern UI workflows
-
 ### Contact
 Contact me if you need help or anything!<br>
 kentwilliam95@gmail.com
